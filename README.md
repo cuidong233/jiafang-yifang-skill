@@ -56,7 +56,7 @@
 
 - [skills/jiafang-yifang/SKILL.md](skills/jiafang-yifang/SKILL.md)
 
-如果你想追溯它从哪些素材里抽出了这些判断，再看：
+如果你想看这些规则是从什么类型的材料里提炼出来的，再看：
 
 - [skills/jiafang-yifang/references/source-notes.md](skills/jiafang-yifang/references/source-notes.md)
 
