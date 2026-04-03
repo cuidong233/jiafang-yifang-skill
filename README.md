@@ -72,13 +72,19 @@
 
 如果你想直接读整篇原文文章，而不是摘录，再看：
 
+- [skills/jiafang-yifang/references/originals/README.md](skills/jiafang-yifang/references/originals/README.md)
+
 - [skills/jiafang-yifang/references/originals/2021-11-05_除了流水线之外，绝大多数的加班就是划水而已.md](skills/jiafang-yifang/references/originals/2021-11-05_除了流水线之外，绝大多数的加班就是划水而已.md)
 - [skills/jiafang-yifang/references/originals/2022-01-07_西安一码通崩了两次，崩掉一个大数据资源管理局局长.md](skills/jiafang-yifang/references/originals/2022-01-07_西安一码通崩了两次，崩掉一个大数据资源管理局局长.md)
 - [skills/jiafang-yifang/references/originals/2023-06-15_让我们揭开某些生意暴利的秘密.md](skills/jiafang-yifang/references/originals/2023-06-15_让我们揭开某些生意暴利的秘密.md)
 - [skills/jiafang-yifang/references/originals/2023-10-06_国内的创业者完全不是你想的那样.md](skills/jiafang-yifang/references/originals/2023-10-06_国内的创业者完全不是你想的那样.md)
+- [skills/jiafang-yifang/references/originals/2021-02-06_你到底是想骂，还是想把富人兜里的钱掏出来？.md](skills/jiafang-yifang/references/originals/2021-02-06_你到底是想骂，还是想把富人兜里的钱掏出来？.md)
+- [skills/jiafang-yifang/references/originals/2023-12-18_怎么占便宜？.md](skills/jiafang-yifang/references/originals/2023-12-18_怎么占便宜？.md)
 - [skills/jiafang-yifang/references/originals/2024-03-18_先聊大明王朝1566，再谈邯郸未成年人谋杀案.md](skills/jiafang-yifang/references/originals/2024-03-18_先聊大明王朝1566，再谈邯郸未成年人谋杀案.md)
+- [skills/jiafang-yifang/references/originals/2024-09-20_假如让你提前预知自己的命运，能改变它么？.md](skills/jiafang-yifang/references/originals/2024-09-20_假如让你提前预知自己的命运，能改变它么？.md)
 - [skills/jiafang-yifang/references/originals/2025-01-22_富人想要的不是钱，是说了算.md](skills/jiafang-yifang/references/originals/2025-01-22_富人想要的不是钱，是说了算.md)
 - [skills/jiafang-yifang/references/originals/2025-02-10_孩子到底能不能填报工商管理志愿？.md](skills/jiafang-yifang/references/originals/2025-02-10_孩子到底能不能填报工商管理志愿？.md)
+- [skills/jiafang-yifang/references/originals/2025-08-09_富人是怎么看待富人们的小三小四与那堆私生子？.md](skills/jiafang-yifang/references/originals/2025-08-09_富人是怎么看待富人们的小三小四与那堆私生子？.md)
 - [skills/jiafang-yifang/references/originals/2026-02-12_乔海伦是史上最牛马的小三么？.md](skills/jiafang-yifang/references/originals/2026-02-12_乔海伦是史上最牛马的小三么？.md)
 
 ## 适配结构
