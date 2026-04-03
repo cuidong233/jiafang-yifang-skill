@@ -1,7 +1,7 @@
 {
   "name": "jiafang-yifang",
   "version": "1.0.0",
-  "description": "A public Codex skill for agencies, freelancers, and service providers dealing with client-side scoping, pricing, delivery boundaries, acceptance, and payment collection.",
+  "description": "A public Codex skill for technical service providers dealing with software outsourcing, AI project delivery, implementation scoping, pricing, delivery boundaries, acceptance, and payment collection.",
   "author": {
     "name": "Luochen",
     "url": "https://github.com/cuidong233"
@@ -19,8 +19,8 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "甲方乙方",
-    "shortDescription": "给乙方用的项目判断与博弈 skill。",
-    "longDescription": "面向乙方、顾问、外包团队、自由职业者与小老板。用于处理接单筛选、报价谈判、需求边界、交付验收、回款续约等典型甲乙方问题。",
+    "shortDescription": "给技术乙方用的项目判断与博弈 skill。",
+    "longDescription": "面向软件开发外包、AI 项目交付、自动化实施、系统集成、技术咨询顾问与技术自由职业者。用于处理接单筛选、技术报价、需求边界、技术验收与回款续约等典型甲乙方问题。",
     "developerName": "Luochen",
     "category": "Productivity",
     "capabilities": [
@@ -31,9 +31,9 @@
     "privacyPolicyURL": "https://github.com/cuidong233/jiafang-yifang-skill",
     "termsOfServiceURL": "https://github.com/cuidong233/jiafang-yifang-skill",
     "defaultPrompt": [
-      "这个单该不该接？",
+      "这个技术单该不该接？",
       "客户一直改需求怎么办？",
-      "怎么报价才不会把自己做成耗材？"
+      "怎么给开发或 AI 项目报价才不会把自己做成耗材？"
     ],
     "brandColor": "#8A5A44"
   }
