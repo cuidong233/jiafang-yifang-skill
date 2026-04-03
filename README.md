@@ -70,14 +70,16 @@
 
 - [skills/jiafang-yifang/references/source-excerpts.md](skills/jiafang-yifang/references/source-excerpts.md)
 
-如果你想直接读整理过的原文材料，再看：
+如果你想直接读整篇原文文章，而不是摘录，再看：
 
-- [skills/jiafang-yifang/references/originals/01_客户需求比讲道理重要.md](skills/jiafang-yifang/references/originals/01_客户需求比讲道理重要.md)
-- [skills/jiafang-yifang/references/originals/02_责任必须落实到合同.md](skills/jiafang-yifang/references/originals/02_责任必须落实到合同.md)
-- [skills/jiafang-yifang/references/originals/03_报价与错误方案.md](skills/jiafang-yifang/references/originals/03_报价与错误方案.md)
-- [skills/jiafang-yifang/references/originals/04_回款是生意基本功.md](skills/jiafang-yifang/references/originals/04_回款是生意基本功.md)
-- [skills/jiafang-yifang/references/originals/05_采购关系与边界测试.md](skills/jiafang-yifang/references/originals/05_采购关系与边界测试.md)
-- [skills/jiafang-yifang/references/originals/06_模糊需求与判断型服务.md](skills/jiafang-yifang/references/originals/06_模糊需求与判断型服务.md)
+- [skills/jiafang-yifang/references/originals/2021-11-05_除了流水线之外，绝大多数的加班就是划水而已.md](skills/jiafang-yifang/references/originals/2021-11-05_除了流水线之外，绝大多数的加班就是划水而已.md)
+- [skills/jiafang-yifang/references/originals/2022-01-07_西安一码通崩了两次，崩掉一个大数据资源管理局局长.md](skills/jiafang-yifang/references/originals/2022-01-07_西安一码通崩了两次，崩掉一个大数据资源管理局局长.md)
+- [skills/jiafang-yifang/references/originals/2023-06-15_让我们揭开某些生意暴利的秘密.md](skills/jiafang-yifang/references/originals/2023-06-15_让我们揭开某些生意暴利的秘密.md)
+- [skills/jiafang-yifang/references/originals/2023-10-06_国内的创业者完全不是你想的那样.md](skills/jiafang-yifang/references/originals/2023-10-06_国内的创业者完全不是你想的那样.md)
+- [skills/jiafang-yifang/references/originals/2024-03-18_先聊大明王朝1566，再谈邯郸未成年人谋杀案.md](skills/jiafang-yifang/references/originals/2024-03-18_先聊大明王朝1566，再谈邯郸未成年人谋杀案.md)
+- [skills/jiafang-yifang/references/originals/2025-01-22_富人想要的不是钱，是说了算.md](skills/jiafang-yifang/references/originals/2025-01-22_富人想要的不是钱，是说了算.md)
+- [skills/jiafang-yifang/references/originals/2025-02-10_孩子到底能不能填报工商管理志愿？.md](skills/jiafang-yifang/references/originals/2025-02-10_孩子到底能不能填报工商管理志愿？.md)
+- [skills/jiafang-yifang/references/originals/2026-02-12_乔海伦是史上最牛马的小三么？.md](skills/jiafang-yifang/references/originals/2026-02-12_乔海伦是史上最牛马的小三么？.md)
 
 ## 适配结构
 
