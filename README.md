@@ -56,6 +56,7 @@
 - `skills/jiafang-yifang/SKILL.md`
 - `skills/jiafang-yifang/references/source-notes.md`
 - `skills/jiafang-yifang/references/source-excerpts.md`
+- `skills/jiafang-yifang/references/originals/`
 
 如果你只是想参考写法，直接看：
 
@@ -68,6 +69,14 @@
 如果你想直接看公开参考摘录，再看：
 
 - [skills/jiafang-yifang/references/source-excerpts.md](skills/jiafang-yifang/references/source-excerpts.md)
+
+如果你想直接读整理过的原文材料，再看：
+
+- [skills/jiafang-yifang/references/originals/01_客户需求比讲道理重要.md](skills/jiafang-yifang/references/originals/01_客户需求比讲道理重要.md)
+- [skills/jiafang-yifang/references/originals/02_责任必须落实到合同.md](skills/jiafang-yifang/references/originals/02_责任必须落实到合同.md)
+- [skills/jiafang-yifang/references/originals/03_报价与错误方案.md](skills/jiafang-yifang/references/originals/03_报价与错误方案.md)
+- [skills/jiafang-yifang/references/originals/04_回款是生意基本功.md](skills/jiafang-yifang/references/originals/04_回款是生意基本功.md)
+- [skills/jiafang-yifang/references/originals/05_采购关系与边界测试.md](skills/jiafang-yifang/references/originals/05_采购关系与边界测试.md)
 
 ## 适配结构
 
