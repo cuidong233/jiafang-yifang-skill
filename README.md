@@ -1,6 +1,9 @@
 # 甲方乙方
 
-一个公开的 Codex / Claude Code skill。
+![AI Claude Code](https://img.shields.io/badge/AI-Claude%20Code-111111?style=flat-square)
+![OpenAI Codex CLI](https://img.shields.io/badge/OpenAI-Codex%20CLI-6f42c1?style=flat-square)
+![Multi-Language](https://img.shields.io/badge/Multi--Language-2b6cb0?style=flat-square)
+![License MIT](https://img.shields.io/badge/License-MIT-84cc16?style=flat-square)
 
 写给乙方。
 
@@ -66,20 +69,14 @@
 
 - [skills/jiafang-yifang/references/source-excerpts.md](skills/jiafang-yifang/references/source-excerpts.md)
 
-## 安装到 Codex
+## 适配结构
 
-确保下面文件存在：
+仓库里已经放了两套插件清单：
 
 - `.codex-plugin/plugin.json`
-- `skills/jiafang-yifang/SKILL.md`
-
-## 安装到 Claude Code
-
-这个仓库同时带了 Claude Code 的插件清单：
-
 - `.claude-plugin/plugin.json`
 
-在 Claude Code 里复用同一份 `skills/` 目录即可。
+同一份 `skills/` 目录可以同时给不同 agent 工具链复用。
 
 ## 一句话总结
 
