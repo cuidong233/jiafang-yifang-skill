@@ -1,6 +1,6 @@
 # 甲方乙方
 
-一个公开的 Codex skill。
+一个公开的 Codex / Claude Code skill。
 
 写给乙方。
 
@@ -49,8 +49,10 @@
 这个仓库本身就是插件根目录：
 
 - `.codex-plugin/plugin.json`
+- `.claude-plugin/plugin.json`
 - `skills/jiafang-yifang/SKILL.md`
 - `skills/jiafang-yifang/references/source-notes.md`
+- `skills/jiafang-yifang/references/source-excerpts.md`
 
 如果你只是想参考写法，直接看：
 
@@ -59,6 +61,25 @@
 如果你想看这些规则是从什么类型的材料里提炼出来的，再看：
 
 - [skills/jiafang-yifang/references/source-notes.md](skills/jiafang-yifang/references/source-notes.md)
+
+如果你想直接看公开参考摘录，再看：
+
+- [skills/jiafang-yifang/references/source-excerpts.md](skills/jiafang-yifang/references/source-excerpts.md)
+
+## 安装到 Codex
+
+确保下面文件存在：
+
+- `.codex-plugin/plugin.json`
+- `skills/jiafang-yifang/SKILL.md`
+
+## 安装到 Claude Code
+
+这个仓库同时带了 Claude Code 的插件清单：
+
+- `.claude-plugin/plugin.json`
+
+在 Claude Code 里复用同一份 `skills/` 目录即可。
 
 ## 一句话总结
 
