@@ -77,6 +77,7 @@
 - [skills/jiafang-yifang/references/originals/03_报价与错误方案.md](skills/jiafang-yifang/references/originals/03_报价与错误方案.md)
 - [skills/jiafang-yifang/references/originals/04_回款是生意基本功.md](skills/jiafang-yifang/references/originals/04_回款是生意基本功.md)
 - [skills/jiafang-yifang/references/originals/05_采购关系与边界测试.md](skills/jiafang-yifang/references/originals/05_采购关系与边界测试.md)
+- [skills/jiafang-yifang/references/originals/06_模糊需求与判断型服务.md](skills/jiafang-yifang/references/originals/06_模糊需求与判断型服务.md)
 
 ## 适配结构
 
